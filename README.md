@@ -4,11 +4,6 @@
 
 This project is the pre work starter page for Columbia University bootcamp. It's purpose is to display the fundamental aspects of coding with HTML, CSS, JavaScript and Git. This website in the future will be used as a guide as I develop as a better programmer within this coding bootcamp. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## Installation
 
 N/A
